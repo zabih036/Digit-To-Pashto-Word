@@ -65,5 +65,8 @@
 1. Pass the input number to the function.
 2. The function returns the Pashto equivalent as a string.
 3. Use the output directly for display in user interfaces or reports.
-
+   
+example
+let result = digitToPashtoWord(12045);
+console.log(result); // Outputs: "دولس زره پنځه څلویښت"
 ---
