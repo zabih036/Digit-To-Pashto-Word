@@ -1,0 +1,1 @@
+# Digit-To-Pashto-Word
