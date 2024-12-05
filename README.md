@@ -1,6 +1,6 @@
 # digitToPashtoWord
 
-`digitToPashtoWord` is a JavaScript function that converts numbers into their equivalent Pashto words. It supports a wide range of numbers, including positive, negative, and large values up to billions. The function is ideal for educational tools, financial applications, and Pashto-language user interfaces.
+`digitToPashtoWord` is a JavaScript function that converts numbers into their equivalent Pashto words. It supports a wide range of numbers, including positive and large values up to billions. The function is ideal for educational tools, financial applications, and Pashto-language user interfaces.
 
 ## Features
 
@@ -41,16 +41,7 @@
 
 ---
 
-### Negative Numbers
 
-The function supports negative numbers by prepending **منفی** (negative) to the output.
-
-| Number  | Pashto Word (Output)        |
-|---------|-----------------------------|
-| -35     | منفی پنځه دیرش              |
-| -20000  | منفی شل زره                 |
-
----
 
 ### Large Numbers
 
