@@ -68,6 +68,6 @@
    
 example
 let result = digitToPashtoWord(12045);
-
 console.log(result); // Outputs: "دولس زره پنځه څلویښت"
+
 ---
